@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "graph-route-optimization",
+      "title": "Graph Route Optimization",
+      "description": "Advanced graph algorithms with shortest paths and constrained route optimization.",
+      "path": "assignments/graph-route-optimization",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
